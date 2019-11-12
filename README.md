@@ -1,1 +1,1 @@
-# DSN-machine-project-Group-3-
+# DSN-machine-learning project-Group-3-
